@@ -2,7 +2,7 @@
 
 namespace Panchito.Store02.Entity
 {
-    internal class Product
+    public class Product
     {
 
         [Key]
