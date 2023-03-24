@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Implementations\" />
+    <ProjectReference Include="..\Panchito.Store02.Entity\Panchito.Store02.Entity.csproj" />
   </ItemGroup>
 
 </Project>
